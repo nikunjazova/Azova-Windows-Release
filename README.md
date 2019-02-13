@@ -1,2 +1,2 @@
-# Desktop-Clients-Release
-Mac/Windows Release
+# Azova-Windows-Release
+Windows Release
